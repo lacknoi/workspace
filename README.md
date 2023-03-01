@@ -7,7 +7,7 @@
 --- java
 public class{
     public static void main(String args[]){
-        print("Hello");
+        print("Hello Github");
     }
 }
 ---
